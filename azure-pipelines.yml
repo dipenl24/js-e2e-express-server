@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: : dockerpoc
+  name:dockerpoc
 
 steps:
 - task: NodeTool@0
